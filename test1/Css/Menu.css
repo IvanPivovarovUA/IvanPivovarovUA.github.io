@@ -257,8 +257,8 @@ a {
 
 @media screen and (max-width: 450px) {
 	.Header-Logo {
-		width:70px;
-		margin:0px;
+		
+		margin:0px 0px;
 		margin-left: 0px;
 		margin-rigth: 0px;
 	}	
